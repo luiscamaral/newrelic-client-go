@@ -7,7 +7,7 @@ require (
 	github.com/client9/misspell v0.3.4
 	github.com/git-chglog/git-chglog v0.15.1
 	github.com/golangci/golangci-lint v1.43.0
-	github.com/goreleaser/goreleaser v1.9.1
+	github.com/goreleaser/goreleaser v1.9.2
 	github.com/llorllale/go-gitlint v0.0.0-20210608233938-d6303cc52cc5
 	github.com/newrelic/tutone v0.10.1
 	github.com/psampaz/go-mod-outdated v0.8.0
@@ -292,7 +292,7 @@ require (
 	gopkg.in/src-d/go-git.v4 v4.10.0 // indirect
 	gopkg.in/warnings.v0 v0.1.2 // indirect
 	gopkg.in/yaml.v2 v2.4.0 // indirect
-	gopkg.in/yaml.v3 v3.0.0-20210107192922-496545a6307b // indirect
+	gopkg.in/yaml.v3 v3.0.0 // indirect
 	honnef.co/go/tools v0.2.1 // indirect
 	mvdan.cc/gofumpt v0.1.1 // indirect
 	mvdan.cc/interfacer v0.0.0-20180901003855-c20040233aed // indirect
